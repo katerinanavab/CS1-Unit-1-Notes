@@ -1,20 +1,19 @@
-/* This is a CSS COMMENT */
+/* This is a COMMENT */
 
-/* Select by element TYPE */
+/* Select element by TYPE */
 p {
-    color: rgb(198, 93, 255);
+    color : rgb(190, 77, 255);
 }
-h1, h2, h3 {
-    font-family: cursive;
-}
-
-/* Select by CLASS name */
-.border {
-    border: 2px solid black;
+h1 {
+    font-family : cursive ;
 }
 
-/* Select by ID name (unique) */
+/* Select element by ID name */
 #intro {
-    background-color: lavender;
+    background-color : lavender;
 }
 
+/* Select element by CLASS name */
+.border {
+    border : 2px solid black;
+}
