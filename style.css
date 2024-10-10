@@ -17,6 +17,8 @@ h1, h2, h3 {
 }
 h1 {
     text-align: center;
+    margin: 5%;
+    padding: 10px;
 }
 
 
@@ -48,11 +50,19 @@ img {
     border-style: dotted;
     border-color: orchid;
     border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 hr {
     border-width: 5px;
-    border-style: ridge;
-    border-color: purple;
+    border-style: dashed;
+    border-color: hotpink;
+}
+
+/* TIP: easy way to center anything!!! */
+.centered-container {
+    margin: auto;
+    text-align: center;
 }
 
 
