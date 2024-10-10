@@ -17,8 +17,6 @@ h1, h2, h3 {
 }
 h1 {
     text-align: center;
-    margin: 5%;
-    padding: 10px;
 }
 
 
@@ -46,23 +44,17 @@ strong {
 
 /* Box Model: margin, border, padding, content */
 img {
-    border-width: 2px;
-    border-style: dotted;
-    border-color: orchid;
-    border-radius: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-hr {
-    border-width: 5px;
-    border-style: dashed;
+    border-width: 10px;
+    border-style: double;
     border-color: hotpink;
+    border-radius: 50%;
+    padding: 5px;
 }
-
-/* TIP: easy way to center anything!!! */
-.centered-container {
+.centered {
     margin: auto;
     text-align: center;
 }
+
+
 
 
