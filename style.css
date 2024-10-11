@@ -17,9 +17,9 @@ h1, h2, h3 {
 }
 h1 {
     text-align: center;
+    padding: 10px;
+    margin: 5%;
 }
-
-
 
 
 /* Select element by ID name */
@@ -50,6 +50,8 @@ img {
     border-radius: 50%;
     padding: 5px;
 }
+
+/* TIP: How to center anything */
 .centered {
     margin: auto;
     text-align: center;
