@@ -15,11 +15,15 @@ p {
 h1, h2, h3 {
     font-family: "Spicy Rice", serif;
 }
+
 h1 {
     text-align: center;
-    padding: 10px;
-    margin: 5%;
+    padding: 15px;
+    margin: 20px;
+    margin-bottom: 100px;
 }
+
+
 
 
 /* Select element by ID name */
